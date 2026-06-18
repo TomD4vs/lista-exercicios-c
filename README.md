@@ -1,6 +1,8 @@
 # Lista Completa de Exercícios — C++
 
-Coleção de exercícios e projetos práticos de C++, organizados por tema, cobrindo desde os fundamentos da linguagem até orientação a objetos e ponteiros.
+![C++](https://img.shields.io/badge/C%2B%2B-11%2F17-blue?logo=c%2B%2B) ![g++](https://img.shields.io/badge/compilador-g%2B%2B%20(MinGW--w64)-green)
+
+Coleção de exercícios e projetos práticos de C++, organizados por tema — dos fundamentos da linguagem até orientação a objetos, ponteiros e um projeto completo de bolão.
 
 ---
 
@@ -14,7 +16,7 @@ Lista Completa Exercicio C++/
 ├── Tabuada/
 ├── Login/
 ├── Encapsulamento/
-├── Herança e Arvores/
+├── Heranca-Arvores/
 ├── Ponteiros/
 ├── bolao-cpp-worldcup26/
 └── bolao-cpp-worldcup26_V2/
@@ -77,7 +79,7 @@ Conceitos: `class`, atributos privados, métodos públicos, construtores.
 ---
 
 ### Herança e Árvores
-**Pasta:** `Herança e Arvores/`
+**Pasta:** `Heranca-Arvores/`
 
 Exercícios de **herança e polimorfismo**:
 
@@ -115,9 +117,9 @@ Aplicação de apostas para a Copa do Mundo 2026. O usuário aposta nos resultad
 ---
 
 ### Bolão Copa do Mundo 2026 — V2 (POO)
-**Pasta:** `bolao-cpp-worldcup26_V2/`
+**Pasta:** `bolao-cpp-worldcup26_V2/` 
 
-Reescrita do bolão usando **Programação Orientada a Objetos**. Introduz a classe `Jogo` para encapsular dados e lógica de cada partida, tornando o código mais modular e extensível.
+Reescrita do bolão usando **Programação Orientada a Objetos**. Introduz as classes `Jogo` e `Apostador` para encapsular dados e lógica, com sistema de pontuação diferenciado (placar exato → 10 pts, vencedor/empate → 5 pts, diferença de gols → 2 pts) e ranking final.
 
 ---
 
