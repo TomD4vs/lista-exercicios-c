@@ -119,7 +119,7 @@ Aplicação de apostas para a Copa do Mundo 2026. O usuário aposta nos resultad
 ### Bolão Copa do Mundo 2026 — V2 (POO)
 **Pasta:** `bolao-cpp-worldcup26_V2/` 
 
-Reescrita do bolão usando **Programação Orientada a Objetos**. Introduz as classes `Jogo` e `Apostador` para encapsular dados e lógica, com sistema de pontuação diferenciado (placar exato → 10 pts, vencedor/empate → 5 pts, diferença de gols → 2 pts) e ranking final.
+Reescrita do bolão usando **Programação Orientada a Objetos e aplicando os conceitos de vetores estáticos, vetores dinâmicos e classes**. Introduz as classes `Jogo` e `Apostador` para encapsular dados e lógica, com sistema de pontuação diferenciado (placar exato → 10 pts, vencedor/empate → 5 pts, diferença de gols → 2 pts) e ranking final.
 
 ---
 
